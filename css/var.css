@@ -1,7 +1,7 @@
 :root{
     /* Color */
     --Primary:#8fb376f3;
-    --Primary-dark:#0800D1;
+    --Primary-dark:#d2d1e4;
     --Primary-light:#995DF0;
     --Primary-extra-light:#EFE4FC;
     --Primary--extra-light-90: rgba(201 188 217/90%);
@@ -24,10 +24,11 @@
     --Success-light:#C6F894;
     --Success-extra-light: #F2FEE5;
     --Gray-dark:#272727;
-    --Gray:#595959;
+    --Gray:#47184b;
     --Gray-light:#767676;
     --Gray-extra-light:#E0E0E0;
     --white:#FFFFFF;   
+    --Dark: #6f2b74;
 
     
 /* fontsize */

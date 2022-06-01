@@ -123,10 +123,10 @@ body{
 }
 
 .btn-primary:hover,.btn-primary:focus,.btn-primary:active{
-    background-color: var(--Primary-light);
-    border-color: var(--Primary-light);
+    background-color: var(--Primary-dark);
+    border-color: var(--Primary-dark);
 }.btn-primary:focus{
-    box-shadow: 0 0 0 0.25rem var(--Primary-extra-light-90); 
+    box-shadow: 0 0 0 0.25rem var(--Dark); 
 }
 
 .btn-secondary{
@@ -147,6 +147,6 @@ body{
 
 }
 .card-text{
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Anton', sans-serif;
     font-size:var(--font-size-small);
 }
