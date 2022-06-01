@@ -3,7 +3,7 @@ body{
   font-family: 'Roboto', sans-serif;
 }
 .navbar{
-    background-color: var(--Primary-extra-light);
+    background-color: var(--Success-light);
     position:fixed;
     top: 0;
     right:0;
@@ -27,21 +27,21 @@ body{
 .nav-link.active{
     color: var(--Secondary-dark) !important;
     font-weight: bold; 
-    border-bottom:2px solid var(--Secondary-dark);
+    border-bottom:2px solid var(--Success-dark);
 }
 .dropdown-menu{
-    background-color: var(--Secondary);
+    background-color: var(--Success-dark);
 }
 .dropdown-item{
-    color:var(--Danger-extra-light);
+    color:var(--Success);
 }
 .dropdown-item:hover{
-    background-color: var(--Danger-extra-light);
+    background-color: var(--Success);
     color:var(--Secondary)
 }
 .hero{
     min-height: 70vh;
-    background: var(--Primary-gradient);
+    background: var(--Gray-extra-light);
     display: flex;
     align-items: center;
     padding-top: 80px;

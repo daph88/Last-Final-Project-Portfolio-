@@ -3,7 +3,7 @@ body{
   font-family: 'Roboto', sans-serif;
 }
 .navbar{
-    background-color: var(--Primary-extra-light);
+    background-color: var(--Primary-gradient);
     position:fixed;
     top: 0;
     right:0;
@@ -19,13 +19,13 @@ body{
 }
 
 .nav-link:hover{
-    color:var(--Primary-light) !important;
+    color:var(--Primary0 --Primary-gradient) !important;
     border-bottom: 2px solid var(--Primary-light);
 }
 
 
 .nav-link.active{
-    color: var(--Secondary-dark) !important;
+    color: var(--Primary) !important;
     font-weight: bold; 
     border-bottom:2px solid var(--Secondary-dark);
 }
@@ -36,7 +36,7 @@ body{
     color:var(--Danger-extra-light);
 }
 .dropdown-item:hover{
-    background-color: var(--Danger-extra-light);
+    background-color: var(--white);
     color:var(--Secondary)
 }
 .hero{
@@ -81,7 +81,7 @@ body{
 }
 
 .footer{
-    background: var(--Primary-gradient-rev);
+    background: var(--Primary-gradient);
     text-align:center;
     padding:30px;
     margin-top: 60px

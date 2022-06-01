@@ -1,11 +1,11 @@
 :root{
     /* Color */
-    --Primary:#6100E9;
+    --Primary:#8fb376f3;
     --Primary-dark:#0800D1;
     --Primary-light:#995DF0;
     --Primary-extra-light:#EFE4FC;
     --Primary--extra-light-90: rgba(201 188 217/90%);
-    --Primary-gradient:linear-gradient(180deg, #EFE4FC 0%, rgba(239, 228, 252, 0) 100%);
+    --Primary-gradient:linear-gradient(180deg, #faf4cc 0%, rgba(184, 246, 228, 0) 100%);
     --Primary-gradient-rev:linear-gradient(180deg, rgba(239, 228, 252, 0) 0%, #EFE4FC 100%);
     --Secondary-dark: #A200DB;
     --Secondary: #D600E9;

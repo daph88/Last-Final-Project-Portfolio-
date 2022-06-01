@@ -1,23 +1,23 @@
 :root{
     /* Color */
-    --Primary:#6100E9;
-    --Primary-dark:#0800D1;
-    --Primary-light:#995DF0;
-    --Primary-extra-light:#EFE4FC;
+    --Primary:#00e971;
+    --Primary-dark:#2ad100;
+    --Primary-light:#5df0eb;
+    --Primary-extra-light:#e4fcfb;
     --Primary--extra-light-90: rgba(201 188 217/90%);
-    --Primary-gradient:linear-gradient(180deg, #EFE4FC 0%, rgba(239, 228, 252, 0) 100%);
+    --Primary-gradient:linear-gradient(180deg, #e4fcec 0%, rgba(228, 252, 232, 0) 100%);
     --Primary-gradient-rev:linear-gradient(180deg, rgba(239, 228, 252, 0) 0%, #EFE4FC 100%);
     --Secondary-dark: #A200DB;
-    --Secondary: #D600E9;
+    --Secondary: #00e952;
     --Secondary-light: #E988F1;
     --Secondary-extra-light:#FAE3FB;
-    --Primary--extra-light-90: rgba(239, 228,252,0.4);
-    --Danger:#EE008D;
-    --Danger-light:#F183BE;
+    --Primary--extra-light-90: rgba(228, 252, 234, 0.4);
+    --Danger:#00ee7f;
+    --Danger-light:#83f1c0;
     --Danger-extra-light:#FBE1EF;
-    --Warning-dark:#E5410F;
+    --Warning-dark:#0fe581;
     --Warning: #EE5F14;
-    --Warning-light:#FF8E1F;
+    --Warning-light:#9eff1f;
     --Warning-extra-light:#FFF2E0;
     --Success-dark:#08B226;
     --Success:#90F138;
